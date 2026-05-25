@@ -2,7 +2,7 @@
 
 Founder of Misfit Genius.
 
-Exploring stewardship systems, ethical AI frameworks, conceptual infrastructure, systems design, and experimental technologies.
+Exploring stewardship systems, ethical AI frameworks, conceptual infrastructure, systems design, and emerging technologies.
 
 ## Current Focus
 
