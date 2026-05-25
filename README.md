@@ -18,7 +18,7 @@ Exploring stewardship systems, ethical AI frameworks, conceptual infrastructure,
 
 ### CANOVA.SYS™
 
-A stewardship-backed system exploring how environmental restoration and measurable acts of care can generate practical value within communities.
+A stewardship-backed system exploring how environmental restoration and measurable acts of care can create measurable value within communities.
 
 ### CG-AI™
 
@@ -26,7 +26,7 @@ A conceptual framework exploring how intelligent systems might be guided through
 
 ### TEEHC™ Nodes
 
-Exploratory concepts for ecologically integrated compute infrastructure focused on efficiency, heat reuse, sustainability, and environmental resilience.
+Exploratory concepts for ecologically integrated compute infrastructure focused on efficiency, heat reuse, environmental integration, and long-term resilience.
 
 ### Thought Experiments
 
@@ -40,6 +40,8 @@ Some repositories contain active concepts.
 Others serve as research archives, white papers, or exploratory frameworks.
 
 This GitHub is being developed as a public archive of ongoing work, experiments, and long-horizon ideas.
+
+The focus is clarity, structure, and long-horizon thinking across interconnected systems.
 
 ## Repositories
 
