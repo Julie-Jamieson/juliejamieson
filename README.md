@@ -41,6 +41,15 @@ Others serve as research archives, white papers, or exploratory frameworks.
 
 This GitHub is being developed as a public archive of ongoing work, experiments, and long-horizon ideas.
 
+## Repositories
+
+- Misfit Genius
+- CANOVA.SYS™
+- CG-AI™
+- TEEHC™
+- Thought Experiments
+- Creative Archive
+
 ## Website
 
 https://misfitgenius.ca
